@@ -4,7 +4,7 @@ Line Follower using a HDD BLDC motor
 
 Based on the project template [STM32F446-Nucleo-Template](https://github.com/andreassinn/STM32F446-Nucleo-Template) from [@andreassinn](https://github.com/andreassinn)
 
-![project setup](https://imgur.com/JQclMzl)
+![project setup](https://i.imgur.com/JQclMzl.jpg)
 
 ## Used libraries
 
